@@ -1,0 +1,7 @@
+print('1/ (3 != 4 and not ("testing" != "test" or "Python" == "Python")) ==>', 3 != 4 and not ("testing" != "test" or "Python" == "Python"))
+print('2/ (3 != 4) =>', 3 != 4)
+print('3/ (not ("testing" != "test" or "Python" == "Python")) =>', not ("testing" != "test" or "Python" == "Python"))
+print('4/ ("testing" != "test" or "Python" == "Python") =>', ("testing" != "test" or "Python" == "Python"))
+print('5/ (True or False) =>', True or False)
+print('6/ ("testing" != "test" and "Python" != "Python") =>', "testing" != "test" and "Python" != "Python")
+print('7/ (True and False) =>', True and False)
